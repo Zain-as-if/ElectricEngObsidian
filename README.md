@@ -1,3 +1,3 @@
-# ElectricEngObsidian
+# Electric Engineering
 
-Git Test
+Git Test #2
